@@ -1,0 +1,10 @@
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/OrderServiceApplication.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/controller/OrderController.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/domain/OrderEntity.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/domain/OrderStatus.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/integration/ProductCatalogClient.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/kafka/EventPublisher.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/kafka/KafkaTopics.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/kafka/SagaEventListener.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/repository/OrderRepository.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/order-service/src/main/java/com/example/saga/order/service/OrderService.java

@@ -1,0 +1,8 @@
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/product-service/src/main/java/com/example/saga/product/ProductServiceApplication.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/product-service/src/main/java/com/example/saga/product/controller/ProductController.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/product-service/src/main/java/com/example/saga/product/domain/ProductEntity.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/product-service/src/main/java/com/example/saga/product/kafka/EventPublisher.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/product-service/src/main/java/com/example/saga/product/kafka/KafkaTopics.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/product-service/src/main/java/com/example/saga/product/kafka/SagaEventListener.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/product-service/src/main/java/com/example/saga/product/repository/ProductRepository.java
+/Users/lab_rpl_arwan/Documents/Codex/2026-05-07/files-mentioned-by-the-user-11/saga-ecommerce-kafka/product-service/src/main/java/com/example/saga/product/service/ProductSagaService.java

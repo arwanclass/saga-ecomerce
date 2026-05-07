@@ -1,0 +1,8 @@
+com/example/saga/product/kafka/KafkaTopics.class
+com/example/saga/product/ProductServiceApplication.class
+com/example/saga/product/service/ProductSagaService.class
+com/example/saga/product/repository/ProductRepository.class
+com/example/saga/product/kafka/EventPublisher.class
+com/example/saga/product/kafka/SagaEventListener.class
+com/example/saga/product/controller/ProductController.class
+com/example/saga/product/domain/ProductEntity.class

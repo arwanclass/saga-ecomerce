@@ -1,0 +1,9 @@
+com/example/saga/event/OrderCompletedEvent.class
+com/example/saga/event/PaymentFailedEvent.class
+com/example/saga/event/RefundPaymentEvent.class
+com/example/saga/event/OrderCancelledEvent.class
+com/example/saga/event/ProductReservedEvent.class
+com/example/saga/event/PaymentProcessedEvent.class
+com/example/saga/event/ProductReservationFailedEvent.class
+com/example/saga/event/OrderCreatedEvent.class
+com/example/saga/event/ReleaseProductReservationEvent.class
